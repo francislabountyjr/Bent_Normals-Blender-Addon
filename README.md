@@ -20,4 +20,4 @@
  4. In the Bent Normals addon settings panel, select the location of the directory where the .pyd module is located.
 
 *Usage is described in the pdf documentation
-
+**Questions/suggestions/bugs - labounty3d@gmail.com
