@@ -1,6 +1,6 @@
-# Bent_Normals-Blender-Addon
+# Bent Normals
 
-Setup:
+## Setup:
  1. Compile or grab a precompiled release of the CPU or CUDA version of the bent normals .pyd module.
   - CUDA: https://github.com/francislabountyjr/BentNormalsCUDAModule
   - CPU: https://github.com/francislabountyjr/BentNormalsCPUModule
